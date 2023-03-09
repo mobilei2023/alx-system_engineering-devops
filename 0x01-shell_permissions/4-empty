@@ -1,2 +1,3 @@
 #!/bin/bash
-echo -n 'creates an empty file'>hello
+touch hello
+
