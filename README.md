@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+mobilei is owning the rights
